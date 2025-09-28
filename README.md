@@ -1,5 +1,15 @@
 # README
 
+## V3
+
+Base layer:
+
+![](pics/layout_base_V3.png)
+
+Shift layer:
+
+![](pics/layout_shift_V3.png)
+
 ## V2
 
 Base layer:
