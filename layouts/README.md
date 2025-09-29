@@ -1,5 +1,15 @@
 # Layouts
 
+## V6
+
+Base layer:
+
+![](../pics/layout_base_V6.png)
+
+Shift layer:
+
+![](../pics/layout_shift_V6.png)
+
 ## V5
 
 Base layer:
