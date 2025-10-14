@@ -10,13 +10,13 @@ There might be some ergonomy and/or speed benefits with other layouts but
 QWERTY is the standard and it is fast enough. The main problem is that there's
 too many symbols to be handled with the right hand's ring finger and pinky.
 
-## V6
+## V7
 
 Base layer:
 
-![](pics/layout_base_V6.png)
+![](pics/layout_base_V7.png)
 
 Shift layer:
 
-![](pics/layout_shift_V6.png)
+![](pics/layout_shift_V7.png)
 
