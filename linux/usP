@@ -13,7 +13,7 @@ xkb_symbols "basic" {
     key <AE07> {	[	  equal,	    7	    ]	};
     key <AE08> {	[	  parenright,	8	    ]	};
     key <AE09> {	[	  braceright,	9	    ]	};
-    key <AE10> {	[	  parenright,	0	    ]	};
+    key <AE10> {	[	  bracketright,	0	    ]	};
     key <AE11> {	[     minus,	underscore	]	};
     key <AE12> {	[     percent,	asciicircum		]	};
 
