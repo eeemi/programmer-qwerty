@@ -15,7 +15,7 @@ xkb_symbols "basic" {
     key <AE09> {	[	  braceright,	9	    ]	};
     key <AE10> {	[	  bracketright,	0	    ]	};
     key <AE11> {	[     minus,	underscore	]	};
-    key <AE12> {	[     percent,	asciicircum		]	};
+    key <AE12> {	[     at,	asciicircum		]	};
 
     key <AD01> {	[	  q,	Q 		]	};
     key <AD02> {	[	  w,	W		]	};
@@ -27,7 +27,7 @@ xkb_symbols "basic" {
     key <AD08> {	[	  i,	I		]	};
     key <AD09> {	[	  o,	O		]	};
     key <AD10> {	[	  p,	P		]	};
-    key <AD11> {	[ ampersand,	at	]	};
+    key <AD11> {	[ ampersand,	dollar	]	};
     key <AD12> {	[ numbersign,	exclam	]	};
 
     key <AC01> {	[	  a,	A 		]	};
