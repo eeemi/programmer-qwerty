@@ -54,6 +54,10 @@ xkb_symbols "basic" {
     key <AB10> {	[     slash,	question	]	};
 
     key <BKSL> {	[ backslash,         bar	]	};
+
+    key <LSGT> {	[ backslash,         bar	]	};
+    include "eurosign(5)"
+    include "level3(ralt_switch)"
 };
 
 partial alphanumeric_keys
