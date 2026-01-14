@@ -1,4 +1,4 @@
-# Layouts for Kinesis keyboard
+# Layout for Kinesis keyboard
 
 ## V8
 

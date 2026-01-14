@@ -1,7 +1,7 @@
-# The programmer QWERTY layout (WIP)
+# The programmer QWERTY layout
 
-The aim of this layout is to take stress of the ring finger and pinky and move
-it to the middle and index fingers.
+The aim of this layout is to reduce strain on the ring finger and pinky and
+shift it to the middle and index fingers.
 
 The layout is constructed with special focus on `vim` shortcuts/motions while
 remaining as close as possible to the default QWERTY layout.
