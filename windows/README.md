@@ -1,5 +1,15 @@
 # Layouts
 
+## V8
+
+Base layer:
+
+![](../pics/layout_base_V8.png)
+
+Shift layer:
+
+![](../pics/layout_shift_V8.png)
+
 ## V7
 
 Base layer:
