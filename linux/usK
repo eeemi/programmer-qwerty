@@ -27,7 +27,7 @@ xkb_symbols "basic" {
     key <AD08> {	[	  i,	I		]	};
     key <AD09> {	[	  o,	O		]	};
     key <AD10> {	[	  p,	P		]	};
-    key <AD11> {	[ ampersand,	dollar	]	};
+    key <AD11> {	[     at,	asciicircum	]	};
     key <AD12> {	[ exclam,	numbersign	]	};
 
     key <AC01> {	[	  a,	A 		]	};
